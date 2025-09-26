@@ -1,5 +1,4 @@
 streamlit
-opencv-python
 numpy
 pillow
 torch
@@ -9,6 +8,9 @@ librosa
 moviepy
 scipy
 scikit-image
+streamlit
+opencv-python-headless==4.10.0.84
+
 
 # Optional dependencies (install if available):
 # timm
