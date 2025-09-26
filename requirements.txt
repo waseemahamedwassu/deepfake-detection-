@@ -1,0 +1,19 @@
+streamlit
+opencv-python
+numpy
+pillow
+torch
+torchvision
+torchaudio
+librosa
+moviepy
+scipy
+scikit-image
+
+# Optional dependencies (install if available):
+# timm
+# speechbrain
+# facenet-pytorch
+# huggingface_hub
+pydub
+
